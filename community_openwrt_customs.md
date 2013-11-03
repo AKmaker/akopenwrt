@@ -20,3 +20,10 @@
 * <https://github.com/cr/mkPirateBox>
 * <https://github.com/nekromant/openwrt-sunxi>
 * <https://github.com/tobiaswaldvogel/openwrt-packages>
+* <https://wiki.projectmeshnet.org/Build_for_OpenWRT>
+* <https://github.com/cjdelisle/cjdns-openwrt>
+* <http://daviddarts.com/piratebox-diy-openwrt/>
+* <http://x-wrt.org/>
+
+### 第三方packages
+* <https://github.com/openwrt-routing/packages>
